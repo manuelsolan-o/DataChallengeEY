@@ -23,6 +23,7 @@ Simple linear regression models to forecast future trends, such as predicted enr
 ### Reusable Components:
 Modular functions that can be easily integrated into Jupyter Notebooks for further exploration and custom analysis.
 
-Usage
+## Usage
 Clone the Repository:
-        git clone [<repository_url>](https://github.com/manuelsolan-o/DataChallengeEY.git)
+
+        git clone https://github.com/manuelsolan-o/DataChallengeEY.git
