@@ -4,7 +4,9 @@ This repository contains a collection of Python functions and Jupyter Notebook d
 
 ## Features
 ### Data Cleaning & Querying:
-Scripts to clean and prepare raw data from various academic cycles, enabling deeper analysis of ITESO's performance.
+Scripts to clean and prepare raw data from various academic cycles, thta can be found in modular functions that can be easily integrated into Jupyter Notebooks for further exploration and custom analysis, enabling deeper analysis of ITESO's performance.
+![](media/modules.png)
+
 
 ### Interactive Visualizations:
 Functions to generate interactive graphs using Plotly, including:
@@ -14,14 +16,15 @@ Functions to generate interactive graphs using Plotly, including:
 * Line charts with regression predictions
 These visualizations illustrate trends in student enrollment, cost breakdowns, and growth rates.
 
+![](media/stacked.png)
+
 ### Comparative Analysis:
 Tools to compare ITESO against competitor institutions based on key metrics like tuition costs, enrollment capture, and growth percentages.
+![](media/mean_enro.png)
 
 ### Predictive Modeling:
 Simple linear regression models to forecast future trends, such as predicted enrollment numbers for upcoming academic cycles.
-
-### Reusable Components:
-Modular functions that can be easily integrated into Jupyter Notebooks for further exploration and custom analysis.
+![](media/mean_enro.png)
 
 ## Usage
 Clone the Repository:
