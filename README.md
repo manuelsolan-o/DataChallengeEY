@@ -30,3 +30,5 @@ Simple linear regression models to forecast future trends, such as predicted enr
 Clone the Repository:
 
         git clone https://github.com/manuelsolan-o/DataChallengeEY.git
+
+Open *DataChallengeEY.html* file
