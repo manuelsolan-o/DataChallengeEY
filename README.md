@@ -24,7 +24,7 @@ Tools to compare ITESO against competitor institutions based on key metrics like
 
 ### Predictive Modeling:
 Simple linear regression models to forecast future trends, such as predicted enrollment numbers for upcoming academic cycles.
-![](media/mean_enro.png)
+![](media/prediction.png)
 
 ## Usage
 Clone the Repository:
